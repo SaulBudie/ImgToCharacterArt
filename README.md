@@ -1,12 +1,18 @@
+## Intro
 ImgToCharacterArt is not an original idea but is one of  my very first successful scripts
 
 
-
+## Notice:
 The code is written is python so its kinda slow 
 
 
+## Tutorial:
 
-Steps to use:
+1,
+Clone dis repo by
+```
+git clone https://github.com/SaulBudie/ImgToCharacterArt
+```
 
 1, Have Python
 

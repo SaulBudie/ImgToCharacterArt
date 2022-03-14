@@ -27,3 +27,7 @@ git clone https://github.com/SaulBudie/ImgToCharacterArt
 6, Enter [file's name].jpg
 
 7, It should poop out the results
+
+## Also:
+
+My old github was https://github.com/budiegamez but dumbass me forgot the password to both Gmail and Github so I couldnt change it

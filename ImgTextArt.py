@@ -1,6 +1,6 @@
 import PIL
 
-CARS = ["@", "#", "$", "%", "?", "*", "+", ";", ":", ",", "."]
+CARS = ["@", "$", "#", "%", "?", "^", "*", "+", ";", ":", ",", "."]
 
 def sizechange(img, new_width=100):
     width, height = img.size
